@@ -8,8 +8,6 @@ It does not provide support for real world cases and does not replace advice fro
 
 ### Architecture
 
-![app-architecture-image](https://github.com/bsenst/streamlit-llm/assets/8211411/d5bc2063-b5fb-43ad-9220-8c5d16954024)
-
 * Streamlit caching loaded Synthea synthetic medical data
 * Prompting with LangChain PromptTemplate
 * LLM served by Clarifai backend
